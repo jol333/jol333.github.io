@@ -1,12 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Mon, 04 Jul 2022 19:26:32 GMT
+ * Generated on Tue, 02 Aug 2022 10:58:33 GMT
  */
 
 :root {
-  --sd-global-test-color-1: #2e79af;
+  --sd-global-test-color-1: #b02e73;
   --sd-global-test-color-2: #ffbcbc;
   --sd-global-test-color-3: #ffed92;
-  --sd-global-big-radius: 24px;
-  --sd-global-small-radius: 8px;
+  --sd-global-big-radius: 48px;
+  --sd-global-small-radius: 5px;
+  --sd-global-low-priority: 120px;
 }
